@@ -1,7 +1,5 @@
 # 1. Hello..., World?
 
-Created: August 26, 2021 5:14 PM
-
 Every great web application ([Google](https://www.google.com), [Yelp](https://www.yelp.com/), [Slashdot](https://slashdot.org/), etc.) had to start somewhere, and so does ours. To be perfectly honest we're still figuring out our business ideas, BUT one thing we're sure of is that we'll need users. To pay us money 💰
 
 We need your help with the engineering work. Can you build us a new web application with a login page? No need to build a registration page, we'll have Billie, our DBA help get us all test-logins. Just a login page with username and password. Once you're logged in, you should just see a message saying something like "Hello, `username`!". Here I'll whip up a quick wireframe:
