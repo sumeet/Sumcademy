@@ -77,6 +77,8 @@ check out some of the extra credit.
   Haskell, seeing what you can figure out on your own. Even if you got totally
   stuck after a few minutes, this would still be a worthwhile exercise.
 
+---
+
 <a name="computation"><sup>1</sup></a> If you're interested in looking into it
 more closely, I recommend the
 [Computation video series from Destroy All
