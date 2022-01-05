@@ -35,7 +35,7 @@ will get you around some of the common pitfalls.
 1. [Install GHCUp](https://www.haskell.org/ghcup/). _Do NOT install Haskell via
    your OS package manager (brew, pacman, apt, etc.)._
 2. Via GHCUp, install latest ghc<sup>[2](#ghc)</sup> 8.10 (GHC 9 still doesn't
-   have full IDE support), <sup>[3](#cabal)</sup>cabal, and <sup>[4](#hls)</sup>hls.
+   have full IDE support), cabal<sup>[3](#cabal)</sup>, and hls<sup>[4](#hls)</sup>.
 3. If you use VSCode, install https://github.com/haskell/vscode-haskell.
    Otherwise,
    [you can read up on how to set up your editor](https://haskell-language-server.readthedocs.io/en/latest/configuration.html).
