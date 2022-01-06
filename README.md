@@ -6,10 +6,24 @@ Publishing some of the coding exercises I've made for the off chance these
 might be useful to someone. Feel free to do whatever you'd like with these: copy
 them, modify them, solve them, etc.
 
-### Course O: 15 exercises (Ruby, webdev, HTTP, sockets)
+Stars are difficulty ratings, out of 5.
+
+### Course O: 15 exercises (Ruby, webdev, HTTP, sockets, databases)
 ### Course E: 2 exercises (Node.js, webdev, Golang)
+
+1. [Hello..., World?](./course_e/01-hello...%2Cworld%3F-**•••(js%2Cwebdev%2Cauth)) ⭐⭐☆☆☆
+   (JS, webdev, authentication)
+2. [My Language Is Faster Than Your Language](./course_e/02-my-language-is-faster-than-your-language-***••(node.js%2Cgolang%2Cconcurrency))
+   ⭐⭐⭐☆☆ (Node.js, Go, Concurrency)
 ### Course M: 1 exercise (Functional programming, Haskell)
-### Course G: 1 exercise (Linux, Command line)
+
+1. [Functional Programming Is For Ner^H^H^HAcademi^W^WFun?](./course_m/01-functional-programming-is-for-ner^h^h^hacademi^w^wfun?-*••••(haskell))
+   ⭐☆☆☆☆ (Haskell)
+
+### Course G: 1 exercise (Linux, command line)
+
+1. [Turning an old laptop into The Cloud](./course_g/01-turning-an-old-laptop-into-the-cloud-*••••(linux%2Ccommand-line))
+   ⭐☆☆☆☆ (Linux, command line)
 
 ## Other (better) resources
 ### Puzzles and Games
