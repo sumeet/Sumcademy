@@ -38,6 +38,5 @@ Stars are difficulty ratings, out of 5.
 
 ---
 
-<a name="cracking"><sup>1</sup></a> I suggest people don't grind away at this popular book. Is it a software engineering Bible? No, it's a test prep book. However, your potential employer cares way more about
-whether or not you can make their website/app than if you memorized about when to use memcached from a book. So why study for the interview like it's
-an exam? Code, build stuff, have fun, do Sumcademy.
+<a name="cracking"><sup>1</sup></a> I don't suggest people to grind away at this book, even though it's really popular. Is it a software engineering Bible? No, it's a test prep book. However, your potential employer cares most about
+whether or not you can make their website/app. In the end, preparing for the actual job would be far more useful to both you and the employer. Code, build stuff, have fun, do Sumcademy.
