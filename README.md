@@ -17,7 +17,7 @@ Stars are difficulty ratings, out of 5.
    ⭐⭐⭐☆☆ (Node.js, Go, Concurrency)
 ### Course M: 1 exercise (Functional programming, Haskell)
 
-1. [Functional Programming Is For Ner^H^H^HAcademi^W^WFun?](./course_m/01-functional-programming-is-for-ner^h^h^hacademi^w^wfun?-*••••(haskell))
+1. [Functional Programming Is For Ner^H^H^HAcademi^W^WFun?](./course_m/01-functional-programming-is-for-ner%5Eh%5Eh%5Ehacademi%5Ew%5Ewfun%3F-*••••(haskell))
    ⭐☆☆☆☆ (Haskell)
 
 ### Course G: 1 exercise (Linux, command line)
