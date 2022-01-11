@@ -1,5 +1,7 @@
 # 9. My Little HTTP Server
 
+![thumb](thumb.png)
+
 It's finally time to build our own HTTP server from scratch. You may want to reference your code from [8. BATCHAT](../08-batchat-***••(ruby,sockets)) since the implementation will be similar.
 
 > 💡 Wait, what?
@@ -42,7 +44,7 @@ A POST request looks very similar to a GET request. The differences are:
 - The verb in the first line of the request is specified as `POST` instead of `GET`
 - This request contains a [body](https://en.wikipedia.org/wiki/HTTP_message_body), where the previous request did not.
 - Along with the body, there is a `Content-Length` header. This tells the server how many bytes are inside of the body. The server needs to know how long the body is, it will keep trying to read data sent by the browser until it reads N bytes. In the case of our example, `first_name=Harry&last_name=Walker` is 33 bytes.
-    - In the case of headers, they are a structured format. `Key: Value` and they're separated by newlines. An empty line, and it's the end of the header section.
+    - Headers are a structured format. `Key: Value` and they're separated by newlines. An empty line, and it's the end of the header section.
     - However, HTTP request bodies can contain **any data whatsoever**. It's totally unstructured data, a browser could send data in any format. This makes it very easy for a browser to send any sort of data to the server, without requiring [escape characters.](https://en.wikipedia.org/wiki/Escape_character)
     
     In the case of the headers section, two newlines meant that the headers section was over. But imagine you're uploading a file, and it contains two newlines. If we used the same logic to parse the body, then the server would think those two newlines meant the end of the request. And you would just lose the rest of the file. So that's why it's simpler to just send the number of bytes and let the server read that number of bytes from the socket.
