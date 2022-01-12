@@ -6,7 +6,7 @@ It's finally time to build our own HTTP server from scratch. You may want to ref
 
 > 💡 Wait, what?
 
-Yeah, that's right. HTTP is a simple [text-based protocol](https://en.wikipedia.org/wiki/Text-based_protocol), not to different from the protocol we designed in the previous assignment. As such, the socket communication will work mostly the same.
+Yeah, that's right. HTTP is a simple [text-based protocol](https://en.wikipedia.org/wiki/Text-based_protocol), not too different from the protocol we designed in the previous assignment. As such, the socket communication will work mostly the same.
 
 We'll start with some background information on HTTP, though feel free to skip to the Assignment and use the About section as a reference.
 
