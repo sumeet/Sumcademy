@@ -41,5 +41,7 @@ See if you can run some of your software on this Linux machine, whether it's a w
 ---
 
 <sup><a name="main">1</a></sup> I've been using Linux since 1999, though not always as my main computer. It was only in 2018, where I felt like it was actually "ready" enough for me. Since then I've been happily using it on all of my machines, and struggle to use Mac or Windows.
+
 <sup><a name="droplet">2</a></sup> marketing term for VPS, Virtual Private Server
+
 <sup><a name="distro-hopping">3</a></sup> researching and trying different Linux distributions
