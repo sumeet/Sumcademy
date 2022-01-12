@@ -27,7 +27,7 @@ summary.average_response_time # => The average amount of time it took per
 summary.total_time            # => The total amount of time taken for the test.
 ```
 
-To actually make the HTTP requests, try `[Net::HTTP](https://ruby-doc.org/stdlib-2.7.1/libdoc/net/http/rdoc/Net/HTTP.html)`.
+To actually make the HTTP requests, try [`Net::HTTP`](https://ruby-doc.org/stdlib-2.7.1/libdoc/net/http/rdoc/Net/HTTP.html).
 
 ### Additional resources
 
