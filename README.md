@@ -20,7 +20,7 @@ Stars are difficulty ratings, out of 5.
 9. [My Little HTTP Server](./course_o/09-my-little-http-server-***••(ruby,webdev,sockets)) ⭐⭐⭐☆☆ (Ruby, webdev, sockets)
 10. [Rack From Scratch](./course_o/10-rack-from-scratch-****•(ruby,webdev,sockets)) ⭐⭐⭐⭐☆ (Ruby, webdev, sockets)
 11. [Putting The Framework Back Together (Ruby DSLs)](./course_o/11-putting-the-framework-back-together-(ruby-dsls)-****•(ruby)) ⭐⭐⭐⭐☆ (Ruby)
-12. [What Is A Compiler?](./course_o/12-what-is-a-compiler?-*••••(computer-science)) ⭐☆☆☆☆  (Computer Science)
+12. [What Is A Compiler?](./course_o/12-what-is-a-compiler%3F-*••••(computer-science)) ⭐☆☆☆☆  (Computer Science)
 13. [Other Databases Part 1: MongoDB](./course_o/13-other-databases-part-1-mongodb-****•(databases,mongodb)) ⭐⭐⭐⭐☆ (MongoDB, databases)
 14. [Other Databases Part 2: Flip A Switch](./course_o/14-other-databases-part-2-flip-a-switch-***••(databases,design-patterns)) ⭐⭐⭐☆☆ (databases, design patterns)
 15. [Other Databases Part 3: Testing](./course_o/15-other-databases-part-3-testing-****•(ruby,unit-testing)) ⭐⭐⭐⭐☆ (Ruby, unit testing)
