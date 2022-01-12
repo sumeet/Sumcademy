@@ -90,7 +90,7 @@ app = Rack::Lobster.new
 RackFromScratch.new(app, 'localhost', 8080)
 ```
 
-2. The bank [Sinatra](https://github.com/sinatra/sinatra#using-a-classic-style-application-with-a-configru) application from [https://github.com/sumeet/bank](https://github.com/sumeet/bank):
+2. The bank [Sinatra](https://github.com/sinatra/sinatra#using-a-classic-style-application-with-a-configru) application from https://github.com/sumcademy/bank:
 
 ```ruby
 require "./main"
