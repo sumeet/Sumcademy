@@ -2,13 +2,29 @@
 
 > The anti-Cracking the Interview<sup>[1](#cracking)</sup> Curriculum
 
-Publishing some of the coding exercises I've made for the off chance these
-might be useful to someone. Feel free to do whatever you'd like with these: copy
+Here are some of the coding exercises I've given for the off chance these
+might be useful to more people. Feel free to do whatever you'd like with these: copy
 them, modify them, solve them, etc.
 
 Stars are difficulty ratings, out of 5.
 
 ### Course O: 15 exercises (Ruby, webdev, HTTP, sockets, databases)
+1. [BELP (BASIC Yelp) review site (limited Gems)](./course_o/01-belp-(basic-yelp)-review-site-(limited-gems)-***••(webdev,sql))  ⭐⭐⭐☆☆ (SQL, webdev)
+2. [BELP (contd.) User Metrics](./course_o/02-belp-(contd.)-user-metrics-***••(webdev,sql)) ⭐⭐⭐☆☆ (SQL, webdev)
+3. [Bank Concurrency](./course_o/03-bank-concurrency-***••(distributed-systems,sql,ruby)) ⭐⭐⭐☆☆ (SQL, distributed systems, Ruby)
+4. [OBench](./course_o/04-obench-***••(concurrency,ruby)) ⭐⭐⭐☆☆ (Ruby, concurrency)
+5. [So Long, Frank](./course_o/05-so-long-frank-****•(ruby,webdev)) ⭐⭐⭐⭐☆ (Ruby, webdev)
+6. [Continuing To Deconstruct The Framework](./course_o/06-continuing-to-deconstruct-the-framework-****•(ruby,webdev)) ⭐⭐⭐⭐☆ (Ruby, webdev)
+7. [Cookie Dough (Raw Cookies)](./course_o/07-cookie-dough-(raw-cookies)-***••(ruby,webdev)) ⭐⭐⭐☆☆ (Ruby, webdev)
+8. [BATCHAT](./course_o/08-batchat-***••(ruby,sockets)) ⭐⭐⭐☆☆ (Ruby, sockets)
+9. [My Little HTTP Server](./course_o/09-my-little-http-server-***••(ruby,webdev,sockets)) ⭐⭐⭐☆☆ (Ruby, webdev, sockets)
+10. [Rack From Scratch](./course_o/10-rack-from-scratch-****•(ruby,webdev,sockets)) ⭐⭐⭐⭐☆ (Ruby, webdev, sockets)
+11. [Putting The Framework Back Together (Ruby DSLs)](./course_o/11-putting-the-framework-back-together-(ruby-dsls)-****•(ruby)) ⭐⭐⭐⭐☆ (Ruby)
+12. [What Is A Compiler?](./course_o/12-what-is-a-compiler?-*••••(computer-science)) ⭐☆☆☆☆  (Computer Science)
+13. [Other Databases Part 1: MongoDB](./course_o/13-other-databases-part-1-mongodb-****•(databases,mongodb)) ⭐⭐⭐⭐☆ (MongoDB, databases)
+14. [Other Databases Part 2: Flip A Switch](./course_o/14-other-databases-part-2-flip-a-switch-***••(databases,design-patterns)) ⭐⭐⭐☆☆ (databases, design patterns)
+15. [Other Databases Part 3: Testing](./course_o/15-other-databases-part-3-testing-****•(ruby,unit-testing)) ⭐⭐⭐⭐☆ (Ruby, unit testing)
+
 ### Course E: 2 exercises (Node.js, webdev, Golang)
 
 1. [Hello..., World?](./course_e/01-hello...%2Cworld%3F-**•••(js%2Cwebdev%2Cauth)) ⭐⭐☆☆☆
