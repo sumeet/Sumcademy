@@ -15,7 +15,7 @@ However, as we'll soon see, Sinatra doesn't provide us with as much as it may se
 
 ## Assignment
 
-For today's project, we'll work again with the [bank](https://github.com/sumeet/bank) example from [3. Bank Concurrency](../03-bank-concurrency-***••(distributed-systems,sql,ruby)). Remove "sinatra" and "sinatra-contrib" from the Gemfile, as we won't be using them anymore. Get the same application working by following the Rack interface, and serve it up using a Rack compliant webserver, such as Thin.
+For today's project, we'll work again with the [bank](https://github.com/sumcademy/bank) example from [3. Bank Concurrency](../03-bank-concurrency-***••(distributed-systems,sql,ruby)). Remove "sinatra" and "sinatra-contrib" from the Gemfile, as we won't be using them anymore. Get the same application working by following the Rack interface, and serve it up using a Rack compliant webserver, such as Thin.
 
 ## Resources and tips
 
