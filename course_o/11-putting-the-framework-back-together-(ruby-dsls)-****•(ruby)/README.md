@@ -23,6 +23,6 @@ You can use your own Rack TCPServer from the previous assignment ([10. Rack From
 
 ### Reference Material
 
-- Gary Bernhardt's [RSpec from Scratch](https://www.destroyallsoftware.com/screencasts/catalog/building-rspec-from-scratch) video where he builds a test runner with a similar DSL ([video](https://www.dropbox.com/s/honopc5huicptha/screencast.mov?dl=0))
-- Gary Bernhardt's [Web Framework From Scratch](https://www.destroyallsoftware.com/screencasts/catalog#web-framework-from-scratch) series ([videos](https://www.destroyallsoftware.com/screencasts/catalog#web-framework-from-scratch))
+- Gary Bernhardt's [RSpec from Scratch](https://www.destroyallsoftware.com/screencasts/catalog/building-rspec-from-scratch) video where he builds a test runner with a similar DSL
+- Gary Bernhardt's [Web Framework From Scratch](https://www.destroyallsoftware.com/screencasts/catalog#web-framework-from-scratch) series
 - [https://apidock.com/ruby/BasicObject/instance_eval](https://apidock.com/ruby/BasicObject/instance_eval)
