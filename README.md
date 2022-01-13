@@ -1,5 +1,7 @@
 # Sumcademy
 
+<img src="logo.png" height=300>
+
 > The anti-Cracking the Interview<sup>[1](#cracking)</sup> Curriculum
 
 Here are some of the coding exercises I've given for the off chance these
