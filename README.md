@@ -50,7 +50,7 @@ Stars are difficulty ratings, out of 5.
 ### Videos
 - [Tsoding](https://youtube.com/tsoding): Low-level, functional programming, programming for fun. Free.
 - [Destroy All Software](https://www.destroyallsoftware.com/): Computation, webdev, Ruby, Unix, Vim, testing and TDD. Costs money.
-- [Clean Coder: Fundamentals](https://cleancoders.com/series/clean-code/fundamentals): Really useful guidelines for writing clean code. I only recommend the first 7 videos, they're all good. Costs money.
+- [Clean Coder: Fundamentals](https://cleancoders.com/series/clean-code/fundamentals): **Actually** useful resource for learning "clean coding" techniques. There's real code examples and refactoring screencasts, which makes this concrete and not hand-wavy. I recommend the first 7 episodes. Costs money.
 
 ---
 
