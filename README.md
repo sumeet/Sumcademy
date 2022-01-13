@@ -46,7 +46,7 @@ Stars are difficulty ratings, out of 5.
 ## Other (better) resources
 ### Puzzles and Games
 - [Advent of Code](https://adventofcode.com/): Christmas themed coding puzzles, start out easy, and get progressively harder. Teaches you algorithms without boring you. Doing these makes you feel like you can code anything. Suitable for beginners and experts. [2019](https://adventofcode.com/2019) is best year.
-- [Zachtronics](https://zachtronics.com/): Beautiful coding video games using simplified assembly languages. For practical purposes, I'd suggest these if you're just beginning to learn how to code. For fun, these get challenging and scale up to expert programmers. 
+- [Zachtronics](https://zachtronics.com/): Beautiful, highly produced coding video games. Great, gentle introduction to Assembly language, though the instruction sets are all for ficticious computers. Suitable for experts and beginners.
   - [Exapunks](https://zachtronics.com/exapunks/): 90s cyberpunk theme
   - [Shenzhen I/O](https://zachtronics.com/shenzhen-io/): Simulates having a job at a Chinese hardware company
 ### Videos
